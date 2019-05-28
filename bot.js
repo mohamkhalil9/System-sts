@@ -48,7 +48,7 @@ client.on("message", message => {
       
       .addField("『مصمم البوت !                    x'1Кemuda .#6334 』", true)
       
-      .addField("『!help^』:arabiccities:『اذا تبي جميع الاوامر مع اوامر اضافية』", true)
+      .addField("『!help^』『اذا تبي جميع الاوامر مع اوامر اضافية』", true)
       
 	    .addField("『!help^^』『اذا تبي الاوامر العامة』", true)
 	    
